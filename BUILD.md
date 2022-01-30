@@ -25,7 +25,7 @@ This is a good time to edit the code. From the Solution Explorer, you can find a
 
 9. Wait for your build to finish. You can check on its status from the Output tab at the bottom
 10. Once your build is finished, **Open the directory in File Explorer.** Then, go to x86 > Debug. You should see NorthstarLauncher.exe and Northstar.dll, as well as a couple other files.
-11. **_In your Titanfall2 directory_**, move the preexisting NorthstarLauncher.exe and Northstar.dll into a new folder. You'll want to keep the default launcher backed up before testing any changes.
+11. **_In your Titanfall2 directory_**, move the preexisting Titanfall2.exe and Server.dll into a new folder. You'll want to keep the default launcher backed up before testing any changes.
 12. Back in the build debug directory, **Move NorthstarLauncher.exe and Northstar.dll to your Titanfall2 folder.**
 
 If everything is correct, you should now be able to launch the Northstar client with your changes applied.
